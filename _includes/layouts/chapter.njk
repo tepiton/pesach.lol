@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+---
+<header class="chapter-header">
+  <p class="chapter-number">Chapter {{ order }}</p>
+  <h1>{{ title }}</h1>
+</header>
+
+{{ content | safe }}
+
+{%- set previousChapter = collections.chapters | getPreviousCollectionItem %}
+{%- set nextChapter = collections.chapters | getNextCollectionItem %}
+{%- if previousChapter or nextChapter %}
+<nav class="chapter-nav">
+  <div class="chapter-nav-left">
+    {%- if previousChapter %}<a href="{{ previousChapter.url }}">&larr; {{ previousChapter.data.title }}</a>{%- endif %}
+  </div>
+  <div class="chapter-nav-right">
+    {%- if nextChapter %}<a href="{{ nextChapter.url }}">{{ nextChapter.data.title }} &rarr;</a>{%- endif %}
+  </div>
+</nav>
+{%- endif %}

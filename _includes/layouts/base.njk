@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language or 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title or metadata.title }}</title>
+  <meta name="description" content="{{ description or excerpt or metadata.description }}">
+  
+  <meta property="og:title" content="{{ title or metadata.title }} &bull; {{ metadata.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ metadata.image }}">
+  <meta property="og:description" content="{{ description or excerpt or metadata.description }}">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ metadata.twitter }}">
+  <meta name="twitter:title" content="{{ title or metadata.title }} &bull; {{ metadata.title }}">
+  <meta name="twitter:description" content="{{ description or excerpt or metadata.description }}">
+  <meta name="twitter:image" content="{{ metadata.image }}">
+  
+  <link rel="stylesheet" href="https://use.typekit.net/ztn6rcs.css">
+  <link rel="stylesheet" href="https://use.typekit.net/pgn7ley.css">
+  <link rel="stylesheet" href="/css/style.css">
+  
+  <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="site-nav-left">
+      <a href="/" class="site-nav-home">{{ metadata.title }}</a>
+    </div>
+    <div class="site-nav-right">
+      <div class="theme-switcher">
+        <button id="theme-toggle" class="theme-toggle" title="Change theme">◐</button>
+        <div id="theme-options" class="theme-options">
+          <a href="#" class="theme-option" data-theme="light">
+            <span class="theme-option-icon">✱</span>
+            <span>Light</span>
+          </a>
+          <a href="#" class="theme-option" data-theme="dark">
+            <span class="theme-option-icon">✻</span>
+            <span>Dark</span>
+          </a>
+          <a href="#" class="theme-option" data-theme="system">
+            <span class="theme-option-icon">◐</span>
+            <span>System</span>
+          </a>
+        </div>
+      </div>
+      <a href="/about/" class="site-nav-about">About</a>
+    </div>
+  </nav>
+  
+  {{ content | safe }}
+  <script type="module" src="/js/theme-switcher.js"></script>
+</body>
+</html>

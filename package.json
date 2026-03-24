@@ -1,0 +1,20 @@
+{
+  "name": "eleventy-base-literary",
+  "version": "1.0.0",
+  "description": "An Eleventy base for literary and chaptered sites",
+  "type": "module",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve --port=8086",
+    "clean": "rm -rf _site",
+    "debug": "DEBUG=* npx @11ty/eleventy"
+  },
+  "keywords": ["eleventy", "literary", "chapters", "books"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "markdown-it": "^14.0.0"
+  }
+}
