@@ -8,7 +8,7 @@ My father's funeral destroyed me.
 
 The first thing you need to know is that my father and Zeide were two very different men. Whatever you felt about him, however he related to you as a grandfather or as in-law, that was genuine and true. There are people in the world who see him as a good, generous, friendly man. I have no reason to doubt them.  The good in him was genuine, the good he made in the world was real, and if he was good and kind to you, you should treasure his memory. 
 
-But my father was a very different man from Zeide, Dr Bo, or even Joe. 
+But _my father_ was a very different man from Zeide, Dr Bo, or even Joe. 
 
 I'm not sure why my father never liked me. I think it was, to put it succinctly, because I did not like sports, and he did not think much of boys who don't like sports. 
 
@@ -20,7 +20,7 @@ I don't blame. I don't even judge. Fawning is a reasonable response to abuse. It
 
 I don't know whether my father and I would have ever reconciled. Before our rift, he liked our weekly calls. We talked about doctors and test results and competed on our a1c levels. Even then it felt like he was in decline and sometimes seemed confused why I was calling him. 
 
-I'd wondered when the call that he died would come. During the day, at night? I hadn't heard anything about doctors hospitals, so I imagined his death was a ways off. I imagined that if it were sudden, it would be a fall or a stroke.
+I wondered when the call that he died would come. During the day, at night? I hadn't heard anything about doctors hospitals, so I imagined his death was a ways off. I imagined that if it were sudden, it would be a fall or a stroke.
 
 The call came March 2nd. Some time later someone texted me the date and time of the funeral.
 
