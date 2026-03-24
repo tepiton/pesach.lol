@@ -12,7 +12,7 @@ But my father was a very different man from Zeide, Dr Bo, or even Joe.
 
 I'm not sure why my father never liked me. I think it was, to put it succinctly, because I did not like sports, and he did not think much of boys who don't like sports. 
 
-I stopped talking to my father the night he terrorized Grandma Carol. When I was small, about 11, he attacked my mother and stalked her with a gun. I couldn't speak for my mother then. Now I was grown and could confront him. So I did. We fought. We hung up. I imagine that  hat happened next was what always happened when he'd go after my mom. After a day or two of awkwardness, everything was as if it never happened.  That's why I stopped talking to my father: I couldn't go on as if nothing happened. 
+I stopped talking to my father the night he terrorized Grandma Carol. When I was small, about 11, he attacked my mother and stalked her with a gun. I couldn't speak for my mother then. Now I was grown and could confront him. So I did. We fought. We hung up. I imagine that what happened next was what always happened when he'd go after my mom. After a day or two of awkwardness, everything was as if it never happened.  That's why I stopped talking to my father: I couldn't go on as if nothing happened. 
 
 But y'all did. 
 
@@ -20,11 +20,11 @@ I don't blame. I don't even judge. Fawning is a reasonable response to abuse. It
 
 I don't know whether my father and I would have ever reconciled. Before our rift, he liked our weekly calls, but even then he seemed confused why I was calling him. 
 
-I would wonder if tonight was the night the call would come. I hadn't heard anything about doctors hospitals, so I imagined death was a way off. I imagined that it were sudden, it would be a fall or a stroke. I never questioned that the call would come.
+Every night I'd wonder if tonight was the night the call would come. I hadn't heard anything about doctors hospitals, so I imagined death was a way off. I imagined that it were sudden, it would be a fall or a stroke. I never questioned that the call would come.
 
 The call came March 2nd. Some time later someone texted me the date and time of the funeral.
 
-I read in the obituaries that he died surrounded by his family. I learned, for the first time, that he'd been under care since January. I learned there had been doctors. That there had been tests. There had been diagnoses. 
+I read in the obituaries that he died surrounded by his family. I learned, for the first time, that he'd been under medical care since January. I learned there had been doctors. That there had been tests. There had been diagnoses. 
 
 No one thought to tell me any of this.
 
