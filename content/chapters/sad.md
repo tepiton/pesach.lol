@@ -18,13 +18,13 @@ But y'all did.
 
 I don't blame. I don't even judge. Fawning is a reasonable response to abuse. It placates the abuser, and makes the abuse stop, which is the immediate need. I did it with my father when I was young. I'm doing it [now](../happy) so you won't hate me.  
 
-I don't know whether my father and I would have ever reconciled. Before our rift, he liked our weekly calls, but even then he seemed confused why I was calling him. 
+I don't know whether my father and I would have ever reconciled. Before our rift, he liked our weekly calls. We talked about doctors and test results and competed on our a1c levels. Even then it felt like he was in decline and sometimes seemed confused why I was calling him. 
 
-Every night I'd wonder if tonight was the night the call would come. I hadn't heard anything about doctors hospitals, so I imagined death was a way off. I imagined that it were sudden, it would be a fall or a stroke. I never questioned that the call would come.
+I'd wondered when the call that he died would come. During the day, at night? I hadn't heard anything about doctors hospitals, so I imagined his death was a ways off. I imagined that if it were sudden, it would be a fall or a stroke.
 
 The call came March 2nd. Some time later someone texted me the date and time of the funeral.
 
-I read in the obituaries that he died surrounded by his family. I learned, for the first time, that he'd been under medical care since January. I learned there had been doctors. That there had been tests. There had been diagnoses. 
+It had not been sudden at all. I read in the obituaries that he died surrounded by his family. I learned, for the first time, that he'd been under medical care since January. I learned there had been doctors. That there had been tests. There had been diagnoses.
 
 No one thought to tell me any of this.
 
