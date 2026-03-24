@@ -1,13 +1,11 @@
 export default {
-  title: "Pamphlet",
-  url: "https://orobia.lol/",
+  title: "pesach.lol",
+  url: "https://pesach.lol/",
   language: "en",
-  description: "A description of this literary work",
+  description: "Notes of pesach",
   author: {
-    name: "Your Name",
-    email: "you@example.com",
-    url: "https://orobia.lol/"
-  },
-  image: "/img/cover.png",
-  twitter: "@yourhandle"
+    name: "Philip Borenstein",
+    email: "pborenstein@gmail.com",
+    url: "https://pborenstein.com/"
+  }
 }

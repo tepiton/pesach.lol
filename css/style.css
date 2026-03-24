@@ -89,7 +89,7 @@ h1 {
 
 h2 {
   margin-bottom: .25em;
-  text-align: center;
+  text-align: left;
   margin-top: 2em;
 }
 
@@ -173,7 +173,7 @@ img {
 
 a {
   color: var(--color-link);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -208,7 +208,7 @@ a:hover {
 
 /* Table of Contents */
 .toc {
-  list-style: none;
+  list-style: inherit;
   padding: 0;
   margin: 2rem 0;
 }

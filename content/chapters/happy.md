@@ -1,11 +1,9 @@
 ---
-title: Smoke
+title: I’m getting old
 ---
 
-## A message from Uncle Flip
 
-
-As you may have heard, I won't be at the seder this year. I thought you might want to know why.
+> As you may have heard, I won't be at the seder this year. I thought you might want to know why.
 
 tl;dr: I'm getting old.
 
