@@ -20,7 +20,7 @@ I don't blame. I don't even judge. Fawning is a reasonable response to abuse. It
 
 I don't know whether my father and I would have ever reconciled. Before our rift, he liked our weekly calls. We talked about doctors and test results and competed on our a1c levels. Even then it felt like he was in decline and sometimes seemed confused why I was calling him. 
 
-I wondered when the call that he died would come. During the day, at night? I hadn't heard anything about doctors hospitals, so I imagined his death was a ways off. I imagined that if it were sudden, it would be a fall or a stroke.
+I wondered when the call that he died would come. During the day, at night? I hadn't heard anything about doctors or hospitals, so I imagined his death was a ways off. I imagined that if it were sudden, it would be a fall or a stroke.
 
 The call came March 2nd. Some time later someone texted me the date and time of the funeral.
 
