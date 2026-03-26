@@ -3,8 +3,9 @@ title: pesach.lol
 ---
 
 
-<p class="drop">As you may have heard, I won't be at the seder this year. I wrote this in case you wanted to know why. My father's funeral destroyed me.</p>
+<p class="drop">As you may have heard, I won't be at the seder this year. I wrote this in case you wanted to know why.</p>
 
+*My father's funeral destroyed me*
 
 The main thing you need to know is that Zeide and my father were two very different men. Whatever you felt about him, however he related to you as a grandfather or as in-law, that was genuine and true. At his funeral people spoke of his having taken care of generations of their family. To have earned that level of trust and loyalty from several families is astonishing. The good in him was genuine. The good he made in the world was real. You should treasure the memories you have of him.
 
