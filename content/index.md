@@ -7,9 +7,9 @@ title: pesach.lol
 
 *My father's funeral destroyed me*
 
-The main thing you need to know is that Zeide and my father were two very different men. Whatever you felt about him, however he related to you as a grandfather or as in-law, that was genuine and true. At his funeral people spoke of his having taken care of generations of their family. To have earned that level of trust and loyalty from several families is astonishing. The good in him was genuine. The good he made in the world was real. You should treasure the memories you have of him.
+The main thing you need to know is that Zeide and my father were two very different men. Whatever you felt about him, however he related to you as a grandfather or as in-law, that was genuine and true. At his funeral people spoke of his having taken care of generations of their families. To  inspire such generational trust and loyalty in multiple families is an astonishing gift. The good in him was genuine. The good he made in the world was real. You should treasure the memories you have of him.
 
-But his funeral destroyed me, and I can't make that trip again. So it's my turn to sit out the seder this year.
+But his funeral destroyed me, and I can't make that trip again. So this year it's my turn to sit out the seder.
 
 I've led the seder for some 30 years. It looks the way it looks largely because of the way I adapted it through the years. When my interest in Judaism was high, the seders were long. When God and I were seeing other people, the seders were short. When you all were young, the seders were simple. As you got older, they got more complex.
 
