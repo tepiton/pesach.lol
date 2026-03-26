@@ -15,15 +15,9 @@ I've led the seder for some 30 years. It looks the way it looks largely because 
 
 This table has been a laboratory for experimenting and playing with Jewish practice, and I have been the mad scientist.
 
-Now it's y'all's turn.
+This break, and the arrival of the next generation, makes it a good time for me to take off my lab coat. 
 
-What do you want future seders to look like? Do you want more singing, less story? Do you want modern readings? Keep this haggadah, use a new one? Which family customs) will you keep? Which will you drop? Which will you add?
+This is a good time to think about what's next.
 
-Some customs, I hope continue: the can of diet Coke for Edna. Olivia's drawings. A kid napping on the couch. Crudités after karpas. Esther's song. Who knows one.
-
-Some customs maybe should change. I avoided politics like it was the eleventh plague. Was that the right thing to do?
-
-I'm not at the seder this year, but if I were, I would encourage you to talk about the seders you want to have in the future.
-
-Who knows one? YOU know one.
+We all approach Judaism from different places and practices. As this family grows and spreads across the globe, how will the seder evolve?
 
