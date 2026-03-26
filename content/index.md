@@ -21,3 +21,6 @@ This is a good time to think about what's next.
 
 We all approach Judaism from different places and practices. As this family grows and spreads across the globe, how will the seder evolve?
 
+Near the beginning of the seder, in _yachatz_, we break the middle matzah in two. There's a smaller part and a larger part. The larger part is the affikomen, which is essential to conclude the seder, but hidden away. At the end of the seder, we send the children to seek the thing that was broken at the beginning. 
+
+They always find it.
