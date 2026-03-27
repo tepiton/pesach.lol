@@ -1,8 +1,8 @@
 export default {
-  title: "pesach.lol",
+  title: "why I'm not at the seder this year",
   url: "https://pesach.lol/",
   language: "en",
-  description: "Notes of pesach",
+  description: "I won't be at the seder this year. This is why.",
   author: {
     name: "Philip Borenstein",
     email: "pborenstein@gmail.com",

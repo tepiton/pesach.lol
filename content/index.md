@@ -5,13 +5,13 @@ title: pesach.lol
 
 <p class="drop">As you may have heard, I won't be at the seder this year. I wrote this in case you wanted to know why.</p>
 
-*My father's funeral destroyed me*
+*My father's funeral broke me*
 
-The main thing you need to know is that Zeide and my father were two very different men. Whatever you felt about him, however he related to you as a grandfather or as in-law, that was genuine and true. At his funeral people spoke of his having taken care of generations of their families. To  inspire such generational trust and loyalty in multiple families is an astonishing gift. The good in him was genuine. The good he made in the world was real. You should treasure the memories you have of him.
+The main thing you need to know is that Zeide and my father were two very different men. Whatever you felt about him, however he related to you as your Zeide, that was genuine and true. At his funeral people spoke of his having taken care of generations of their families. To inspire such generational trust and loyalty in multiple families is an astonishing gift. The good in him was genuine. The good he made in the world was real. You should treasure the memories you have of him.
 
-But his funeral destroyed me, and I can't make that trip again. It's my turn to sit out the seder.
+I knew a different man, and his funeral broke me. I can't make that trip again. I need to sit out this seder.
 
-I've led the seder for some 30 years. It looks the way it looks largely because of the way I adapted it through the years. When my interest in Judaism was high, the seders were long. When God and I were seeing other people, the seders were short. When you all were young, the seders were simple. As you got older, they got more complex.
+I've led the seder for some 30 years. It looks the way it looks largely because of the way I adapted it for you. When my interest in Judaism was high, the seders were long. When God and I were seeing other people, the seders were short. When you all were young, the seders were simple. As you got older, they got more complex.
 
 Our seder table has been a laboratory for experimenting and playing with Jewish practice, and I have been the mad scientist.
 
@@ -19,6 +19,6 @@ This break, and the arrival of the next generation, makes it a good time for me 
 
 We all approach Judaism from different places and practices. As this family grows and spreads across the globe, how will the seder evolve?
 
-Near the beginning of the seder, in _yachatz_, we break the middle matzah in two. There's a smaller part and a larger part. The larger part is the affikomen, which is essential to conclude the seder, but hidden away. At the end of the seder, we send the children to seek the thing that was broken at the beginning. 
+Near the beginning of the seder, in _yachatz_, we break the middle matzah in two. There's a smaller part and a larger part. The larger part is the afikomen, which is essential to conclude the seder, but hidden away. At the end of the seder, we send the children to seek the thing that was broken at the beginning.
 
 They always find it.

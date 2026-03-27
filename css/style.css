@@ -173,7 +173,7 @@ img {
 
 a {
   color: var(--color-link);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
